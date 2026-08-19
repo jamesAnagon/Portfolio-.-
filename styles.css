@@ -859,7 +859,6 @@ section {
   text-align: center;
   margin-top: 3rem;
   padding: 1.5rem;
-  background: var(--bg-elevated);
   border-radius: var(--radius);
   border: 1px solid var(--border);
   max-width: 520px;
