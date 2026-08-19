@@ -782,6 +782,7 @@ section {
   gap: 1.25rem;
   max-width: 720px;
   margin: 0 auto;
+  padding-top: 0;
 }
 
 @media (min-width: 640px) {
