@@ -139,6 +139,12 @@ section {
   margin: 0 0 2.5rem;
 }
 
+.contact-desc {
+  color: var(--text-muted);
+  max-width: 540px;
+  margin: 0 0 .5rem;
+}
+
 /* Hero */
 .hero {
   padding: 5rem 0 4rem;
