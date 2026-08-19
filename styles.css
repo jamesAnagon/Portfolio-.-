@@ -137,12 +137,15 @@ section {
   color: var(--text-muted);
   max-width: 540px;
   margin: 0 0 2.5rem;
+  
 }
 
 .contact-desc {
   color: var(--text-muted);
   max-width: 540px;
   margin: 0 0 .5rem;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 /* Hero */
