@@ -636,6 +636,7 @@ section {
 /* About page */
 .about-hero {
   padding: 4rem 0 2rem;
+  height: 100vh;
 }
 
 .about-hero p {
